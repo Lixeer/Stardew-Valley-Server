@@ -25,7 +25,7 @@ Please make a deployment choice:
 8. Remove system-wide deployments (uninstall)
 9. Exit
 ```
-6.而后输入9，退出
+6.而后输入数字键`9`，退出
 
 7.等待游戏启动以及图形化界面出现
 
@@ -36,8 +36,11 @@ Please make a deployment choice:
 ## 优势
 1.无需gpu，可以在大部分vps服务器中使用
 
-2.无需steam登录验证
+2.无需steam登录验证,andriod，ios，pc，三端互通
 
 3.支持mod，理论上只要配置够以及mod兼容性够好(指的是客机和主机的smapi版本不同的情况下，mod的稳定情况)，可以安装任何mod
 
-4.相较容易上手，并且是星露谷中文社区的较为优雅的解决方案，不会面临docker，Linux等等问题
+4.相较容易上手，并且是星露谷中文社区的较为优雅的解决方案，不会面临docker，Linux运维问题
+
+5.自建服务器，更为稳定且数据更安全
+
