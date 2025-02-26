@@ -6,4 +6,4 @@
 
 ***
 ## 快速开始
-1.[下载发行包](docs/start/release_page.md)
+1.[下载发行包](docs/start/releasepage_zh.md)
