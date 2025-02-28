@@ -46,4 +46,4 @@ Please make a deployment choice:
 
 ## QQ群兼中文网联机社区
 ### QQ群[1036407376](https://qm.qq.com/q/2WxQIxxC88)
-![qq_group](docs/img/qq_code.png)
+![qq_group](docs/img/qq_code.jpg)
