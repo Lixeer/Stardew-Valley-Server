@@ -8,7 +8,7 @@
 ## 快速开始
 > 视频教程：[bilibili【星露谷物语开服/多人游戏服务器/三端互通/远程联机】]( https://www.bilibili.com/video/BV13VPJe6EM1/?share_source=copy_web&vd_source=dddc5d0c3c33183e95f30f7d1ccdb295)
 
-1.[下载发行包]如果需要提取码请加入下方QQ群获取(docs/start/release-page_zh.md)
+1.[下载发行包](docs/start/release-page_zh.md)如果需要提取码请加入下方QQ群获取
 
 2.解压发行包
 
