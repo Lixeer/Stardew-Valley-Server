@@ -6,7 +6,7 @@
 
 ***
 ## 快速开始
-> 视频教程：[bilibili]()
+> 视频教程：[bilibili【星露谷物语开服/多人游戏服务器/三端互通/远程联机】]( https://www.bilibili.com/video/BV13VPJe6EM1/?share_source=copy_web&vd_source=dddc5d0c3c33183e95f30f7d1ccdb295)
 
 1.[下载发行包](docs/start/release-page_zh.md)
 
@@ -44,3 +44,6 @@ Please make a deployment choice:
 
 5.自建服务器，更为稳定且数据更安全
 
+## QQ群兼中文网联机社区
+### QQ群[1036407376](https://qm.qq.com/q/2WxQIxxC88)
+![qq_group](docs/img/qq_code.png)
