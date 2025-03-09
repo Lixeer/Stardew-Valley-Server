@@ -50,6 +50,6 @@ Please make a deployment choice:
 
 
 ## Donte
-<img src="docs/img/vx_code.jpg" width="50%" hight="50%">
+<img src="docs/img/vx_pay.jpg" width="50%" hight="50%">
 ## 服务器推荐
 如果您从来没有这方面的经验，那么我们推荐你在下方链接购买服务器，并由专业人员为你服务，而不是在群里谴责群主 [高性价比服务器推荐](https://m.tb.cn/h.TxeOlTH?tk=3w1SeNmrOKB) ，在这里购买服务器后他会为你安排好一切
