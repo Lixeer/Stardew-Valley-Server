@@ -42,8 +42,12 @@ Please make a deployment choice:
 
 4.相较容易上手，并且是星露谷中文社区的较为优雅的解决方案，不会面临docker，Linux运维问题
 
-5.自建服务器，更为稳定且数据更安全
+5.自建服务器(如果你没有服务器维护经验，或者说你不知道服务器是什么，请看下面)，更为稳定且数据更安全
 
 ## QQ群兼中文网联机社区
 ### QQ群[1036407376](https://qm.qq.com/q/2WxQIxxC88)
 ![qq_group](docs/img/qq_code.jpg)
+## Donte
+![vx_pay](docs/img/vx_pay.jpg)
+## 服务器推荐
+如果您从来没有这方面的经验，那么我们推荐你在下方链接购买服务器，并由专业人员为你服务，而不是在群里谴责群主 [高性价比服务器推荐](https://m.tb.cn/h.TxeOlTH?tk=3w1SeNmrOKB) ，在这里购买服务器后他会为你安排好一切
