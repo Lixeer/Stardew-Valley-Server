@@ -46,7 +46,9 @@ Please make a deployment choice:
 
 ## QQ群兼中文网联机社区
 ### QQ群[1036407376](https://qm.qq.com/q/2WxQIxxC88)
-![qq_group](docs/img/qq_code.jpg)
+<img src="docs/img/qq_code.jpg" width="60%" hight="60">
+
+
 ## Donte
 ![vx_pay](docs/img/vx_pay.jpg)
 ## 服务器推荐
