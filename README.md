@@ -7,6 +7,7 @@
 ***
 ## 开始之前
 1.如果您从来没有这方面的经验，那么我们推荐你在下方链接购买服务器，并由专业人员为你服务，而不是在群里谴责群主 [高性价比服务器推荐](https://m.tb.cn/h.TxeOlTH?tk=3w1SeNmrOKB) ，在这里购买服务器后他会为你安排好一切
+
 2.项目在线体验服务器(游戏版本1.6.15,ip直连):160.202.233.247
 ## 快速开始
 > 视频教程：[bilibili【星露谷物语开服/多人游戏服务器/三端互通/远程联机】]( https://www.bilibili.com/video/BV13VPJe6EM1/?share_source=copy_web&vd_source=dddc5d0c3c33183e95f30f7d1ccdb295)
