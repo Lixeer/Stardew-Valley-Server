@@ -55,7 +55,7 @@ Please make a deployment choice:
 
 ## Donte
 `每一笔5RMB以上的donte都会发布到广告页，每当有一个StardewValley server被运行的时候捐赠者都会被鸣谢`
-<img src="docs/img/ad_page.jpg" width="50%" hight="50%">
+<img src="docs/img/ad_page.png" width="50%" hight="50%">
 <img src="docs/img/vx_pay.jpg" width="50%" hight="50%">
 
 
