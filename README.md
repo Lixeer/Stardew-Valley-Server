@@ -48,12 +48,14 @@ Please make a deployment choice:
 
 5.自建服务器(如果你没有服务器维护经验，或者说你不知道服务器是什么，请看上面服务器推荐一栏)，更为稳定且数据更安全
 
-## QQ群兼中文网联机社区
-### QQ群[1036407376](https://qm.qq.com/q/2WxQIxxC88)
+## 社区
+### QQ频道[1036407376](https://pd.qq.com/s/7gut1do04?b=5)
 <img src="docs/img/qq_code.jpg" width="50%" hight="50%">
 
 
 ## Donte
+`每一笔5RMB以上的donte都会发布到广告页，每当有一个StardewValley server被运行的时候捐赠者都会被鸣谢`
+<img src="docs/img/ad_page.jpg" width="50%" hight="50%">
 <img src="docs/img/vx_pay.jpg" width="50%" hight="50%">
 
 
