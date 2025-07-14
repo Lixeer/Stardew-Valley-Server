@@ -51,8 +51,8 @@ Please make a deployment choice:
 ## 社区
 ### QQ群
 
-[1群1036407376(已满)]  
-[2群1020152532]  
+[1群1036407376(已满)](https://qm.qq.com/q/Q8QaovnQWG)
+[2群1020152532](https://qm.qq.com/q/KhXvEqsw8g)
 [qq频道(版本发布信息)](https://pd.qq.com/s/7gut1do04?b=5)  
 <img src="docs/img/qq_code.jpg" width="50%" hight="50%">
 
