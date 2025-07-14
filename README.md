@@ -49,7 +49,11 @@ Please make a deployment choice:
 5.自建服务器(如果你没有服务器维护经验，或者说你不知道服务器是什么，请看上面服务器推荐一栏)，更为稳定且数据更安全
 
 ## 社区
-### QQ频道[1036407376](https://pd.qq.com/s/7gut1do04?b=5)
+### QQ群
+
+[1群1036407376(已满)]  
+[2群1020152532]  
+[qq频道(版本发布信息)](https://pd.qq.com/s/7gut1do04?b=5)  
 <img src="docs/img/qq_code.jpg" width="50%" hight="50%">
 
 
