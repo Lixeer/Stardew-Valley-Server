@@ -5,11 +5,11 @@
 [简体中文](README.md)|[English](README_en.md)
 
 ***
-## 开始之前
+## 🚩开始之前
 1.如果您从来没有这方面的经验，那么我们推荐你在下方链接购买服务器，并由专业人员为你服务，而不是在群里谴责群主 [高性价比服务器推荐](https://m.tb.cn/h.TxeOlTH?tk=3w1SeNmrOKB) ，在这里购买服务器后他会为你安排好一切
 
 2.项目在线体验服务器(游戏版本1.6.15,ip直连):160.202.233.247
-## 快速开始
+## 🌻快速开始
 > 视频教程：[bilibili【星露谷物语开服/多人游戏服务器/三端互通/远程联机】]( https://www.bilibili.com/video/BV13VPJe6EM1/?share_source=copy_web&vd_source=dddc5d0c3c33183e95f30f7d1ccdb295)
 
 1.[下载发行包](docs/start/release-page_zh.md)如果需要提取码请加入下方QQ群获取(凭借star截图礼貌获取,我们是免费的,但不是屈尊的)
@@ -37,7 +37,7 @@ Please make a deployment choice:
 
 9.进入游戏后按f9即可进入自动模式（自动模式下，机器人会响应游戏事件并确认，且机器人将在每晚8点睡觉）
 
-## 优势
+## ✨优势
 1.无需gpu，可以在大部分vps服务器中使用
 
 2.无需steam登录验证,andriod，ios，pc，三端互通
@@ -48,8 +48,8 @@ Please make a deployment choice:
 
 5.自建服务器(如果你没有服务器维护经验，或者说你不知道服务器是什么，请看上面服务器推荐一栏)，更为稳定且数据更安全
 
-## 社区
-### QQ群
+## 😘社区
+### 🐧QQ群
 
 [1群1036407376(已满)](https://qm.qq.com/q/Q8QaovnQWG)  
 [2群1020152532](https://qm.qq.com/q/KhXvEqsw8g)  
@@ -57,7 +57,7 @@ Please make a deployment choice:
 <img src="docs/img/qq_code.jpg" width="50%" hight="50%">
 
 
-## Donte
+## 💰Donte
 `每一笔5RMB以上的donte都会发布到广告页，每当有一个StardewValley server被运行的时候捐赠者都会被鸣谢`
 <img src="docs/img/ad_page.png" width="50%" hight="50%">
 <img src="docs/img/vx_pay.jpg" width="50%" hight="50%">
